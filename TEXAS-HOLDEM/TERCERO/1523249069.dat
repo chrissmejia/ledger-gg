@@ -1,0 +1,8 @@
+2018/04/09 * GG TERCERO GAME FUNDING
+    ; timestamp: 1523249069
+    ; player: jamesbong
+    guld:Income:register:group:gg:jamesbong    0.2 GULD
+    guld:Income:register:group:gg    -0.2 GULD
+    gg:Games:TEXAS-HOLDEM:TERCERO   1420 GG
+    gg:Liabilities    -1420 GG
+
