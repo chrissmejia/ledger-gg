@@ -1,0 +1,6 @@
+2018/04/10 * GG LOTTERY OCTAVO FUNDING
+    ; timestamp: 1523391306
+    guld:Income:register:group:gg:isysd    0.00000002 GULD
+    guld:Income:register:group:gg    -0.00000002 GULD
+    gg:Games:LOTTERY:OCTAVO   0.0002 GG
+    gg:Liabilities    -0.0002 GG
