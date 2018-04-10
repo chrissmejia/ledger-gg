@@ -1,0 +1,6 @@
+2018/04/10 * GG LOTTERY SEXTO FUNDING
+    ; timestamp: 1523380281
+    guld:Income:register:group:gg:isysd    0.01 GULD
+    guld:Income:register:group:gg    -0.01 GULD
+    gg:Games:LOTTERY:SEXTO   710 GG
+    gg:Liabilities    -710 GG
