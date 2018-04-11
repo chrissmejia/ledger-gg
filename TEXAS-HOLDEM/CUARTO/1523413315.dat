@@ -1,0 +1,25 @@
+2018/04/11 * GG LOTTERY CUARTO FUNDING
+    ; timestamp: 1523413315
+    ; player: hnathan
+    ; player: dany
+    ; player: jasonseibert
+    ; player: isysd
+    guld:Income:register:group:gg:isysd    0.26666667 GULD
+    guld:Income:register:group:gg    -0.26666667 GULD
+    gg:Games:LOTTERY:CUARTO   1893.33333333 GG
+    gg:Liabilities    -1893.33333333 GG
+
+2018/04/11 * GG LOTTERY CUARTO FUNDING
+    ; timestamp: 1523413315
+    guld:Income:register:group:gg:rukie    0.06666667 GULD
+    guld:Income:register:group:gg    -0.06666667 GULD
+    gg:Games:LOTTERY:CUARTO   473.33333333 GG
+    gg:Liabilities    -473.33333333 GG
+
+2018/04/11 * GG LOTTERY CUARTO FUNDING
+    ; timestamp: 1523413315
+    guld:Income:register:group:gg:vonsteuben    0.06666667 GULD
+    guld:Income:register:group:gg    -0.06666667 GULD
+    gg:Games:LOTTERY:CUARTO   473.33333333 GG
+    gg:Liabilities    -473.33333333 GG
+
