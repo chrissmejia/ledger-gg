@@ -1,0 +1,6 @@
+2018/04/11 * GG LOTTERY TUTORIAL FUNDING
+    ; timestamp: 1523410215
+    guld:Income:register:group:gg:isysd    65.00000000 GULD
+    guld:Income:register:group:gg    -65.00000000 GULD
+    gg:Games:LOTTERY:TUTORIAL   461500.0 GG
+    gg:Liabilities    -461500.0 GG
