@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY hp0 FUNDING
+    ; timestamp: 1523812739
+    guld:Income:register:group:gg:jamesbong    0.01408450 GULD
+    guld:Income:register:group:gg    -0.01408450 GULD
+    gg:Games:LOTTERY:hp0   100 GG
+    gg:Liabilities    -100 GG
