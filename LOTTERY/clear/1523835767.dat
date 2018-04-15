@@ -1,4 +1,4 @@
-2018/04/15 * GG LOTTERY clear CLAIM
+2018/04/15 * GG LOTTERY clear STAKE
     ; timestamp: 1523835767
-    gg:Games:LOTTERY:clear    -1141140 GG
-    gg:Games:LOTTERY:clear:isysd    1141140 GG
+    gg:Games:LOTTERY:clear:isysd    -1140 GG
+    gg:Equity:isysd    1140 GG
