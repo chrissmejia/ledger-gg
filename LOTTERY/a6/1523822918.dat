@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY a6 FUNDING
+    ; timestamp: 1523822918
+    guld:Income:register:group:gg:jamesbong    0.04000000 GULD
+    guld:Income:register:group:gg    -0.04000000 GULD
+    gg:Games:LOTTERY:a6   200 GG
+    gg:Liabilities    -200 GG
