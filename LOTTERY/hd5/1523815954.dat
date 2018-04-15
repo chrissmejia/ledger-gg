@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY hd5 FUNDING
+    ; timestamp: 1523815954
+    guld:Income:register:group:gg:jamesbong    0.20000000 GULD
+    guld:Income:register:group:gg    -0.20000000 GULD
+    gg:Games:LOTTERY:hd5   1000 GG
+    gg:Liabilities    -1000 GG
