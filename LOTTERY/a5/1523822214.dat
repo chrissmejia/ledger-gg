@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY a5 FUNDING
+    ; timestamp: 1523822214
+    guld:Income:register:group:gg:isysd    0.01000000 GULD
+    guld:Income:register:group:gg    -0.01000000 GULD
+    gg:Games:LOTTERY:a5   50 GG
+    gg:Liabilities    -50 GG
