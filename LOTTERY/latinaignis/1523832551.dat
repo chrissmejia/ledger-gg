@@ -1,0 +1,7 @@
+11,174.20000000
+2018/04/15 * GG LOTTERY latinaignis FUNDING
+    ; timestamp: 1523832553
+    guld:Income:register:group:gg:isysd    0.00100000 GULD
+    guld:Income:register:group:gg    -0.00100000 GULD
+    gg:Games:LOTTERY:latinaignis   5 GG
+    gg:Liabilities    -5 GG
