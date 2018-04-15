@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY 0g9 FUNDING
+    ; timestamp: 1523820298
+    guld:Income:register:group:gg:jamesbong    10.00000000 GULD
+    guld:Income:register:group:gg    -10.00000000 GULD
+    gg:Games:LOTTERY:0g9   50000 GG
+    gg:Liabilities    -50000 GG
