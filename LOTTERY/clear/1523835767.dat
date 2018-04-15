@@ -1,26 +1,4 @@
-2018/04/15 * GG LOTTERY clear FUNDING
+2018/04/15 * GG LOTTERY clear CLAIM
     ; timestamp: 1523835767
-    gg:Games:LOTTERY:latinoh:isysd    -143821.28120000 GG
-    gg:Games:LOTTERY:clear    143821.28120000 GG
-    gg:Games:LOTTERY:latinoo:isysd    -983025.00000000 GG
-    gg:Games:LOTTERY:clear    983025.00000000 GG
-    gg:Games:LOTTERY:mewtwo:isysd    -71.00000000 GG
-    gg:Games:LOTTERY:clear    71.00000000 GG
-    gg:Games:LOTTERY:og0:isysd    -100.00000000 GG
-    gg:Games:LOTTERY:clear    100.00000000 GG
-    gg:Games:LOTTERY:og1:isysd    -100.00000000 GG
-    gg:Games:LOTTERY:clear    100.00000000 GG
-    gg:Games:LOTTERY:practice:isysd    -710.00000000 GG
-    gg:Games:LOTTERY:clear    710.00000000 GG
-    gg:Games:LOTTERY:up:isysd    -710.00000000 GG
-    gg:Games:LOTTERY:clear    710.00000000 GG
-    gg:Games:ODD-OR-EVEN:GENESIS:isysd    -142.00000000 GG
-    gg:Games:LOTTERY:clear    142.00000000 GG
-    gg:Games:TEXAS-HOLDEM:CUARTO:isysd    -3786.66666665 GG
-    gg:Games:LOTTERY:clear    3786.66666665 GG
-    gg:Games:TEXAS-HOLDEM:GENESIS:isysd    -133.00000000 GG
-    gg:Games:LOTTERY:clear    133.00000000 GG
-    gg:Games:TEXAS-HOLDEM:SEGUNDO:isysd    -3500.00000000 GG
-    gg:Games:LOTTERY:clear    3500.00000000 GG
-    gg:Games:TEXAS-HOLDEM:TERCERO:isysd    -3901.05213335 GG
-    gg:Games:LOTTERY:clear    3901.05213335 GG
+    gg:Games:LOTTERY:clear    -1141140 GG
+    gg:Games:LOTTERY:clear:isysd    1141140 GG
