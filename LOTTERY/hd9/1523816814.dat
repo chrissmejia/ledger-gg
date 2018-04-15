@@ -1,0 +1,6 @@
+2018/04/15 * GG LOTTERY hd9 FUNDING
+    ; timestamp: 1523816814
+    guld:Income:register:group:gg:isysd    0.60000000 GULD
+    guld:Income:register:group:gg    -0.60000000 GULD
+    gg:Games:LOTTERY:hd9   3000 GG
+    gg:Liabilities    -3000 GG
