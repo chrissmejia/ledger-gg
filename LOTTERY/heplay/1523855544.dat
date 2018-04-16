@@ -1,0 +1,6 @@
+2018/04/16 * GG LOTTERY heplay FUNDING
+    ; timestamp: 1523855544
+    guld:Income:register:group:gg:isysd    0.20000000 GULD
+    guld:Income:register:group:gg    -0.20000000 GULD
+    gg:Games:LOTTERY:heplay   1000 GG
+    gg:Liabilities    -1000 GG
