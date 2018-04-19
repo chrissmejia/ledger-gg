@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524151153
+    guld:Income:register:group:gg:MEMBER    13.37 GULD
+    guld:Income:register:group:gg    -13.37 GULD
+    d3brouille:Assets   66850 GG
+    gg:Liabilities    -66850 GG
+
