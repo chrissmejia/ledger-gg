@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524178968
+    guld:Income:register:group:gg:lewi    1.5000000000 GULD
+    guld:Income:register:group:gg    -1.5000000000 GULD
+    lewi:Assets    7500 GG
+    gg:Liabilities    -7500 GG
+

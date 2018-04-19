@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524170640
+    guld:Income:register:group:gg:rukie    16.1 GULD
+    guld:Income:register:group:gg    -16.1 GULD
+    rukie:Assets    80500 GG
+    gg:Liabilities   -80500 GG
+

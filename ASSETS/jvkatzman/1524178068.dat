@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524178068
+    guld:Income:register:group:gg:jvkatzman    102.0000000000 GULD
+    guld:Income:register:group:gg    -102.0000000000 GULD
+    jvkatzman:Assets    510000 GG
+    gg:Liabilities    -510000 GG
+

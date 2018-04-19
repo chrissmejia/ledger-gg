@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524173280
+    guld:Income:register:group:gg:joestang    27.0000000000 GULD
+    guld:Income:register:group:gg    -27.0000000000 GULD
+    joestang:Assets    135000 GG
+    gg:Liabilities   -135000 GG
+
