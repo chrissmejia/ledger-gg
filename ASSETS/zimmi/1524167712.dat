@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524167712
+    guld:Income:register:group:gg:zimmi    1000 GULD
+    guld:Income:register:group:gg    -1000 GULD
+    zimmi:Assets    5000000 GG
+    gg:Liabilities    -5000000 GG
+
