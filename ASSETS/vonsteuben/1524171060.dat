@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524171060
+    guld:Income:register:group:gg:vonsteuben    11.1371831 GULD
+    guld:Income:register:group:gg    -11.1371831 GULD
+    vonsteuben:Assets    55685.9155 GG
+    gg:Liabilities   -55685.9155 GG
+
