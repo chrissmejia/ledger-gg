@@ -1,7 +1,6 @@
 2018/04/19 * claim burn
-    ; timestamp: 1524154110
-    guld:Income:register:group:gg:MEMBER    0.426 GULD
+    ; timestamp: 1524137557
+    guld:Income:register:group:gg:jamesbong    0.426 GULD
     guld:Income:register:group:gg    -0.426 GULD
     jamesbong:Assets   2130 GG
     gg:Liabilities -2130 GG
-
