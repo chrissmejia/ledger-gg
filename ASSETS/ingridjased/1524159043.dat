@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524159043
+    guld:Income:register:group:gg:ingridjased    1.78599999 GULD
+    guld:Income:register:group:gg    -1.78599999 GULD
+    ingridjased:Assets    8929.99995 GG
+    gg:Liabilities    -8929.99995 GG
+

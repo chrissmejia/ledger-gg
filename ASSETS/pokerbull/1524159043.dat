@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524159043
+    guld:Income:register:group:gg:pokerbull    0.7 GULD
+    guld:Income:register:group:gg    -0.7 GULD
+    pokerbull:Assets    3500 GG
+    gg:Liabilities    -3500 GG
+

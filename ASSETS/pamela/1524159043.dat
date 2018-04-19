@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524159043
+    guld:Income:register:group:gg:pamela    2 GULD
+    guld:Income:register:group:gg    -2 GULD
+    pamela:Assets    10000 GG
+    gg:Liabilities    -10000 GG
+
