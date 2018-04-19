@@ -1,0 +1,7 @@
+2018/04/19 * claim burn
+    ; timestamp: 1524178908
+    guld:Income:register:group:gg:mdiaz    0.1408450800 GULD
+    guld:Income:register:group:gg    -0.1408450800 GULD
+    mdiaz:Assets    704.2254 GG
+    gg:Liabilities   -704.2254 GG
+
