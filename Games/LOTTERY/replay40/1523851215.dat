@@ -1,6 +1,0 @@
-2018/04/16 * GG LOTTERY replay40 FUNDING
-    ; timestamp: 1523851215
-    guld:Income:register:group:gg:isysd    0.20000000 GULD
-    guld:Income:register:group:gg    -0.20000000 GULD
-    gg:Games:LOTTERY:replay40   1000 GG
-    gg:Liabilities    -1000 GG

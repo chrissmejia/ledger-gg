@@ -1,6 +1,0 @@
-2018/04/11 * GG LOTTERY FIXED FUNDING
-    ; timestamp: 1523425671
-    guld:Income:register:group:gg:jamesbong    0.01000000 GULD
-    guld:Income:register:group:gg    -0.01000000 GULD
-    gg:Games:LOTTERY:FIXED   71 GG
-    gg:Liabilities    -71 GG

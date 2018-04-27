@@ -1,7 +1,0 @@
-2018/04/19 * claim burn
-    ; timestamp: 1524159043
-    guld:Income:register:group:gg:isysd    67.72 GULD
-    guld:Income:register:group:gg    -67.72 GULD
-    isysd:Assets    338600 GG
-    gg:Liabilities    -338600 GG
-

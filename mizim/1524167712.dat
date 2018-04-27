@@ -1,7 +1,0 @@
-2018/04/19 * claim burn
-    ; timestamp: 1524167712
-    guld:Income:register:group:gg:mizim    4000 GULD
-    guld:Income:register:group:gg    -4000 GULD
-    mizim:Assets    20000000 GG
-    gg:Liabilities    -20000000 GG
-

@@ -1,7 +1,0 @@
-2018/04/19 * claim burn
-    ; timestamp: 1524182399
-    guld:Income:register:group:gg:dice    1.6 GULD
-    guld:Income:register:group:gg    -1.6 GULD
-    dice:Assets    8000 GG
-    gg:Liabilities    -8000 GG
-

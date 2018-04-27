@@ -1,7 +1,0 @@
-2018/04/25 * claim burn
-    ; timestamp: 1524669935
-    guld:Income:register:group:gg:randyhilarski    30 GULD
-    guld:Income:register:group:gg    -30 GULD
-    randyhilarski:Assets    30000 GG
-    gg:Liabilities    -30000 GG
-

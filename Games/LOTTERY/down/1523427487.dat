@@ -1,6 +1,0 @@
-2018/04/11 * GG LOTTERY down FUNDING
-    ; timestamp: 1523427487
-    guld:Income:register:group:gg:isysd    0.01000000 GULD
-    guld:Income:register:group:gg    -0.01000000 GULD
-    gg:Games:LOTTERY:down   71 GG
-    gg:Liabilities    -71 GG

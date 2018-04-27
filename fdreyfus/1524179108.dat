@@ -1,6 +1,0 @@
-2018/04/19 * claim burn
-    ; timestamp: 1524179108
-    guld:Income:register:group:gg:fdreyfus    2.5000000000 GULD
-    guld:Income:register:group:gg    -2.5000000000 GULD
-    fdreyfus:Assets    12500 GG
-    gg:Liabilities    -12500 GG
